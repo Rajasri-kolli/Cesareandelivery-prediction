@@ -7,4 +7,4 @@ Subsequently, logistic regression (LR) was compared to machine learning algorith
 
 SVM-RFE was more inclusive compared to RF-RFE with regards to feature selection and determined 22 significant variables compared to 10 (p < 0.001). 
 
-Compared to traditional logistic regression, machine learning algorithms were noted to be superior (Figure 2) with average area under the curve (AUC) of 0.51 for LR, as opposed to 0.80 for RF, 0.77 for DT, 0.77 for SVM-Lin, and 0.77 for SVM-RBF (p < 0.001). 
+
