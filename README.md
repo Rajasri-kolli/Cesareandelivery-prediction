@@ -1,3 +1,12 @@
+Rajasri Kolli
+OU ID: 113491307
+DSA Final Semester
+
+
+
+
+
+
 # Cesarean delivery prediction
 A retrospective cohort of 1287 women delivering at one institution from 2011-2016 with 42 available demographic and clinical variables were examined using random forest recursive feature elimination (RF-RFE) and support vector machine recursive feature elimination (SVM-RFE) to select variables for analysis. 
 
